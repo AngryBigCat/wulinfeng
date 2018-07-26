@@ -1,0 +1,1004 @@
+{
+	"groups": [
+		{
+			"keys": "formInput_png,formtips_png,musicOff_png,musicOn_png,QR_jpg,QR_png,scrollbg_png,scrolls_png,close2_png,loading_gif,noheadimg_jpg,text3_png,hero3_1_png,hero3_2_png,homebg3_jpg,name3_png,text2_png,hero2_1_png,hero2_2_png,homebg2_jpg,name2_png,text1_png,hero1_1_png,hero1_2_png,home_mask_jpg,homebg1_jpg,name1_png,hpsui_png,hp4_1_png,hp4_2_png,hp4_3_png,hpbg4_1_png,hpbg4_2_png,hpbg4_3_png,preface_1_png,preface_2_png,preface_3_png,prefaceBg_jpg,letter_png,letter_blood_png,letter_hero_png,letter_text_png,startBtn_png,startText_png,rules_png,g1_hbg2_png,g1_p1_png,g1_p2_png,g1_p3_png,g1_p4_png,g1_hbg_jpg,nums_png,nums_fnt,tapX_png,countbg_png,countfg_png,g1_act1_png,g1_act2_png,g1_act3_png,g1_act4_png,g1_act5_png,g1_act6_png,g1bg_jpg,g1fg_png,g1ready_png,tap1_png,r_1_png,r_2_png,r_headbg_png,r1_text1_png,r1_text2_png,r1_textbg_png,start2Btn_png,rbg_png,g2_p4_png,g2_p1_png,g2_p2_png,g2_p3_png,start3Btn_png,r2_textbg_png,r2_text2_png,g2_act2_png,g2_act1_png,g2_readybg_jpg,g2_go_png,g2_num1_png,g2_num2_png,g2_num3_png,g3_p1_png,g3_p2_png,g3_p3_png,g3_p4_png,failText_png,continue2_png,failBg_png,continue1_png,successBg_jpg,successText_png,ready2_png,blood1_png,blood2_png,blood3_png,bloodbg1_png,bloodbg2_png,g3_act1_png,g3_act2_png,g3_act3_png,ready1_png,dg2_png,doublehit_png,jsact1_png,jsact2_png,jsText_png,dg1_png,tap2_png,pn17_png,pn1_png,pn2_png,pn3_png,pn4_png,pn5_png,pn6_png,pn7_png,pn8_png,pn9_png,pn11_png,pn12_png,pn13_png,pn14_png,pn15_png,pn16_png,wuhunBg_png,hbg_png,hdBtn_png,matchsBtn_png,moreBtn_png,rankBtn_png,replayBtn_png,resultBg_jpg,sanjiaoBg_png,shareBtn_png,one_png,r_text2_png,r_text1_png,playerdata_json,picBg_png,infoMore_png,sharebg_png,saveqr_png,red_light_png,pic17_jpg,pic1_jpg,pic2_jpg,pic3_jpg,pic4_jpg,pic5_jpg,pic6_jpg,pic7_jpg,pic8_jpg,pic9_jpg,pic11_jpg,pic12_jpg,pic13_jpg,pic14_jpg,pic15_jpg,pic16_jpg,jumpBtn_png,pt5_png,pb1_png,pb2_png,pb3_png,pb4_png,pb5_png,pt1_png,pt2_png,pt3_png,pt4_png,diss_png,g1_p5_png,g2_p5_png,g3_p5_png",
+			"name": "preload"
+		},
+		{
+			"keys": "jdbg_png,jdfg_png,loadBg_jpg,loading_json,loading_png,load_light_png,load_title_png,enterBtn_png,eye_png",
+			"name": "loadUI"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bgm.mp3",
+			"type": "sound",
+			"name": "bgm_mp3"
+		},
+		{
+			"url": "assets/GameUtil/formInput.png",
+			"type": "image",
+			"name": "formInput_png"
+		},
+		{
+			"url": "assets/GameUtil/formtips.png",
+			"type": "image",
+			"name": "formtips_png"
+		},
+		{
+			"url": "assets/GameUtil/musicOff.png",
+			"type": "image",
+			"name": "musicOff_png"
+		},
+		{
+			"url": "assets/GameUtil/musicOn.png",
+			"type": "image",
+			"name": "musicOn_png"
+		},
+		{
+			"url": "assets/GameUtil/QR.jpg",
+			"type": "image",
+			"name": "QR_jpg"
+		},
+		{
+			"url": "assets/GameUtil/QR.png",
+			"type": "image",
+			"name": "QR_png"
+		},
+		{
+			"url": "assets/GameUtil/scrollbg.png",
+			"type": "image",
+			"name": "scrollbg_png"
+		},
+		{
+			"url": "assets/GameUtil/scrolls.png",
+			"type": "image",
+			"name": "scrolls_png"
+		},
+		{
+			"url": "assets/loadUI/jdbg.png",
+			"type": "image",
+			"name": "jdbg_png"
+		},
+		{
+			"url": "assets/loadUI/jdfg.png",
+			"type": "image",
+			"name": "jdfg_png"
+		},
+		{
+			"url": "assets/loadUI/loadBg.jpg",
+			"type": "image",
+			"name": "loadBg_jpg"
+		},
+		{
+			"url": "assets/loadUI/loading.json",
+			"type": "json",
+			"name": "loading_json"
+		},
+		{
+			"url": "assets/loadUI/loading.png",
+			"type": "image",
+			"name": "loading_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "others/server/close.png",
+			"type": "image",
+			"name": "close2_png"
+		},
+		{
+			"url": "others/server/loading.gif",
+			"type": "image",
+			"name": "loading_gif"
+		},
+		{
+			"url": "assets/GameUtil/noheadimg.jpg",
+			"type": "image",
+			"name": "noheadimg_jpg"
+		},
+		{
+			"url": "assets/loadUI/load_light.png",
+			"type": "image",
+			"name": "load_light_png"
+		},
+		{
+			"url": "assets/loadUI/load_title.png",
+			"type": "image",
+			"name": "load_title_png"
+		},
+		{
+			"url": "assets/loadUI/enterBtn.png",
+			"type": "image",
+			"name": "enterBtn_png"
+		},
+		{
+			"url": "assets/loadUI/eye.png",
+			"type": "image",
+			"name": "eye_png"
+		},
+		{
+			"url": "assets/homePage/text3.png",
+			"type": "image",
+			"name": "text3_png"
+		},
+		{
+			"url": "assets/homePage/hero3_1.png",
+			"type": "image",
+			"name": "hero3_1_png"
+		},
+		{
+			"url": "assets/homePage/hero3_2.png",
+			"type": "image",
+			"name": "hero3_2_png"
+		},
+		{
+			"url": "assets/homePage/homebg3.jpg",
+			"type": "image",
+			"name": "homebg3_jpg"
+		},
+		{
+			"url": "assets/homePage/name3.png",
+			"type": "image",
+			"name": "name3_png"
+		},
+		{
+			"url": "assets/homePage/text2.png",
+			"type": "image",
+			"name": "text2_png"
+		},
+		{
+			"url": "assets/homePage/hero2_1.png",
+			"type": "image",
+			"name": "hero2_1_png"
+		},
+		{
+			"url": "assets/homePage/hero2_2.png",
+			"type": "image",
+			"name": "hero2_2_png"
+		},
+		{
+			"url": "assets/homePage/homebg2.jpg",
+			"type": "image",
+			"name": "homebg2_jpg"
+		},
+		{
+			"url": "assets/homePage/name2.png",
+			"type": "image",
+			"name": "name2_png"
+		},
+		{
+			"url": "assets/homePage/text1.png",
+			"type": "image",
+			"name": "text1_png"
+		},
+		{
+			"url": "assets/homePage/hero1_1.png",
+			"type": "image",
+			"name": "hero1_1_png"
+		},
+		{
+			"url": "assets/homePage/hero1_2.png",
+			"type": "image",
+			"name": "hero1_2_png"
+		},
+		{
+			"url": "assets/homePage/home_mask.jpg",
+			"type": "image",
+			"name": "home_mask_jpg"
+		},
+		{
+			"url": "assets/homePage/homebg1.jpg",
+			"type": "image",
+			"name": "homebg1_jpg"
+		},
+		{
+			"url": "assets/homePage/name1.png",
+			"type": "image",
+			"name": "name1_png"
+		},
+		{
+			"url": "assets/homePage/hpsui.png",
+			"type": "image",
+			"name": "hpsui_png"
+		},
+		{
+			"url": "assets/homePage/hp4_1.png",
+			"type": "image",
+			"name": "hp4_1_png"
+		},
+		{
+			"url": "assets/homePage/hp4_2.png",
+			"type": "image",
+			"name": "hp4_2_png"
+		},
+		{
+			"url": "assets/homePage/hp4_3.png",
+			"type": "image",
+			"name": "hp4_3_png"
+		},
+		{
+			"url": "assets/homePage/hpbg4_1.png",
+			"type": "image",
+			"name": "hpbg4_1_png"
+		},
+		{
+			"url": "assets/homePage/hpbg4_2.png",
+			"type": "image",
+			"name": "hpbg4_2_png"
+		},
+		{
+			"url": "assets/homePage/hpbg4_3.png",
+			"type": "image",
+			"name": "hpbg4_3_png"
+		},
+		{
+			"url": "assets/homePage/preface_1.png",
+			"type": "image",
+			"name": "preface_1_png"
+		},
+		{
+			"url": "assets/homePage/preface_2.png",
+			"type": "image",
+			"name": "preface_2_png"
+		},
+		{
+			"url": "assets/homePage/preface_3.png",
+			"type": "image",
+			"name": "preface_3_png"
+		},
+		{
+			"url": "assets/homePage/prefaceBg.jpg",
+			"type": "image",
+			"name": "prefaceBg_jpg"
+		},
+		{
+			"url": "assets/homePage/letter.png",
+			"type": "image",
+			"name": "letter_png"
+		},
+		{
+			"url": "assets/homePage/letter_blood.png",
+			"type": "image",
+			"name": "letter_blood_png"
+		},
+		{
+			"url": "assets/homePage/letter_hero.png",
+			"type": "image",
+			"name": "letter_hero_png"
+		},
+		{
+			"url": "assets/homePage/letter_text.png",
+			"type": "image",
+			"name": "letter_text_png"
+		},
+		{
+			"url": "assets/homePage/startBtn.png",
+			"type": "image",
+			"name": "startBtn_png"
+		},
+		{
+			"url": "assets/homePage/startText.png",
+			"type": "image",
+			"name": "startText_png"
+		},
+		{
+			"url": "assets/homePage/rules.png",
+			"type": "image",
+			"name": "rules_png"
+		},
+		{
+			"url": "assets/gamePage/g1_hbg2.png",
+			"type": "image",
+			"name": "g1_hbg2_png"
+		},
+		{
+			"url": "assets/gamePage/g1_p1.png",
+			"type": "image",
+			"name": "g1_p1_png"
+		},
+		{
+			"url": "assets/gamePage/g1_p2.png",
+			"type": "image",
+			"name": "g1_p2_png"
+		},
+		{
+			"url": "assets/gamePage/g1_p3.png",
+			"type": "image",
+			"name": "g1_p3_png"
+		},
+		{
+			"url": "assets/gamePage/g1_p4.png",
+			"type": "image",
+			"name": "g1_p4_png"
+		},
+		{
+			"url": "assets/gamePage/g1_hbg.jpg",
+			"type": "image",
+			"name": "g1_hbg_jpg"
+		},
+		{
+			"url": "assets/gamePage/nums.png",
+			"type": "image",
+			"name": "nums_png"
+		},
+		{
+			"url": "assets/gamePage/nums.fnt",
+			"type": "font",
+			"name": "nums_fnt"
+		},
+		{
+			"url": "assets/gamePage/tapX.png",
+			"type": "image",
+			"name": "tapX_png"
+		},
+		{
+			"url": "assets/gamePage/countbg.png",
+			"type": "image",
+			"name": "countbg_png"
+		},
+		{
+			"url": "assets/gamePage/countfg.png",
+			"type": "image",
+			"name": "countfg_png"
+		},
+		{
+			"url": "assets/gamePage/g1_act1.png",
+			"type": "image",
+			"name": "g1_act1_png"
+		},
+		{
+			"url": "assets/gamePage/g1_act2.png",
+			"type": "image",
+			"name": "g1_act2_png"
+		},
+		{
+			"url": "assets/gamePage/g1_act3.png",
+			"type": "image",
+			"name": "g1_act3_png"
+		},
+		{
+			"url": "assets/gamePage/g1_act4.png",
+			"type": "image",
+			"name": "g1_act4_png"
+		},
+		{
+			"url": "assets/gamePage/g1_act5.png",
+			"type": "image",
+			"name": "g1_act5_png"
+		},
+		{
+			"url": "assets/gamePage/g1_act6.png",
+			"type": "image",
+			"name": "g1_act6_png"
+		},
+		{
+			"url": "assets/gamePage/g1bg.jpg",
+			"type": "image",
+			"name": "g1bg_jpg"
+		},
+		{
+			"url": "assets/gamePage/g1fg.png",
+			"type": "image",
+			"name": "g1fg_png"
+		},
+		{
+			"url": "assets/gamePage/g1ready.png",
+			"type": "image",
+			"name": "g1ready_png"
+		},
+		{
+			"url": "assets/gamePage/tap1.png",
+			"type": "image",
+			"name": "tap1_png"
+		},
+		{
+			"url": "assets/resultPage/r_1.png",
+			"type": "image",
+			"name": "r_1_png"
+		},
+		{
+			"url": "assets/resultPage/r_2.png",
+			"type": "image",
+			"name": "r_2_png"
+		},
+		{
+			"url": "assets/resultPage/r_headbg.png",
+			"type": "image",
+			"name": "r_headbg_png"
+		},
+		{
+			"url": "assets/resultPage/r1_text1.png",
+			"type": "image",
+			"name": "r1_text1_png"
+		},
+		{
+			"url": "assets/resultPage/r1_text2.png",
+			"type": "image",
+			"name": "r1_text2_png"
+		},
+		{
+			"url": "assets/resultPage/r1_textbg.png",
+			"type": "image",
+			"name": "r1_textbg_png"
+		},
+		{
+			"url": "assets/resultPage/start2Btn.png",
+			"type": "image",
+			"name": "start2Btn_png"
+		},
+		{
+			"url": "assets/resultPage/rbg.png",
+			"type": "image",
+			"name": "rbg_png"
+		},
+		{
+			"url": "assets/gamePage/g2_p4.png",
+			"type": "image",
+			"name": "g2_p4_png"
+		},
+		{
+			"url": "assets/gamePage/g2_p1.png",
+			"type": "image",
+			"name": "g2_p1_png"
+		},
+		{
+			"url": "assets/gamePage/g2_p2.png",
+			"type": "image",
+			"name": "g2_p2_png"
+		},
+		{
+			"url": "assets/gamePage/g2_p3.png",
+			"type": "image",
+			"name": "g2_p3_png"
+		},
+		{
+			"url": "assets/resultPage/start3Btn.png",
+			"type": "image",
+			"name": "start3Btn_png"
+		},
+		{
+			"url": "assets/resultPage/r2_textbg.png",
+			"type": "image",
+			"name": "r2_textbg_png"
+		},
+		{
+			"url": "assets/resultPage/r2_text2.png",
+			"type": "image",
+			"name": "r2_text2_png"
+		},
+		{
+			"url": "assets/gamePage/g2_act2.png",
+			"type": "image",
+			"name": "g2_act2_png"
+		},
+		{
+			"url": "assets/gamePage/g2_act1.png",
+			"type": "image",
+			"name": "g2_act1_png"
+		},
+		{
+			"url": "assets/gamePage/g2_readybg.jpg",
+			"type": "image",
+			"name": "g2_readybg_jpg"
+		},
+		{
+			"url": "assets/gamePage/g2_go.png",
+			"type": "image",
+			"name": "g2_go_png"
+		},
+		{
+			"url": "assets/gamePage/g2_num1.png",
+			"type": "image",
+			"name": "g2_num1_png"
+		},
+		{
+			"url": "assets/gamePage/g2_num2.png",
+			"type": "image",
+			"name": "g2_num2_png"
+		},
+		{
+			"url": "assets/gamePage/g2_num3.png",
+			"type": "image",
+			"name": "g2_num3_png"
+		},
+		{
+			"url": "assets/gamePage/g3_p1.png",
+			"type": "image",
+			"name": "g3_p1_png"
+		},
+		{
+			"url": "assets/gamePage/g3_p2.png",
+			"type": "image",
+			"name": "g3_p2_png"
+		},
+		{
+			"url": "assets/gamePage/g3_p3.png",
+			"type": "image",
+			"name": "g3_p3_png"
+		},
+		{
+			"url": "assets/gamePage/g3_p4.png",
+			"type": "image",
+			"name": "g3_p4_png"
+		},
+		{
+			"url": "assets/resultPage/failText.png",
+			"type": "image",
+			"name": "failText_png"
+		},
+		{
+			"url": "assets/resultPage/continue2.png",
+			"type": "image",
+			"name": "continue2_png"
+		},
+		{
+			"url": "assets/resultPage/failBg.png",
+			"type": "image",
+			"name": "failBg_png"
+		},
+		{
+			"url": "assets/resultPage/continue1.png",
+			"type": "image",
+			"name": "continue1_png"
+		},
+		{
+			"url": "assets/resultPage/successBg.jpg",
+			"type": "image",
+			"name": "successBg_jpg"
+		},
+		{
+			"url": "assets/resultPage/successText.png",
+			"type": "image",
+			"name": "successText_png"
+		},
+		{
+			"url": "assets/gamePage/ready2.png",
+			"type": "image",
+			"name": "ready2_png"
+		},
+		{
+			"url": "assets/gamePage/blood1.png",
+			"type": "image",
+			"name": "blood1_png"
+		},
+		{
+			"url": "assets/gamePage/blood2.png",
+			"type": "image",
+			"name": "blood2_png"
+		},
+		{
+			"url": "assets/gamePage/blood3.png",
+			"type": "image",
+			"name": "blood3_png"
+		},
+		{
+			"url": "assets/gamePage/bloodbg1.png",
+			"type": "image",
+			"name": "bloodbg1_png"
+		},
+		{
+			"url": "assets/gamePage/bloodbg2.png",
+			"type": "image",
+			"name": "bloodbg2_png"
+		},
+		{
+			"url": "assets/gamePage/g3_act1.png",
+			"type": "image",
+			"name": "g3_act1_png"
+		},
+		{
+			"url": "assets/gamePage/g3_act2.png",
+			"type": "image",
+			"name": "g3_act2_png"
+		},
+		{
+			"url": "assets/gamePage/g3_act3.png",
+			"type": "image",
+			"name": "g3_act3_png"
+		},
+		{
+			"url": "assets/gamePage/ready1.png",
+			"type": "image",
+			"name": "ready1_png"
+		},
+		{
+			"url": "assets/gamePage/dg2.png",
+			"type": "image",
+			"name": "dg2_png"
+		},
+		{
+			"url": "assets/gamePage/doublehit.png",
+			"type": "image",
+			"name": "doublehit_png"
+		},
+		{
+			"url": "assets/gamePage/jsact1.png",
+			"type": "image",
+			"name": "jsact1_png"
+		},
+		{
+			"url": "assets/gamePage/jsact2.png",
+			"type": "image",
+			"name": "jsact2_png"
+		},
+		{
+			"url": "assets/gamePage/jsText.png",
+			"type": "image",
+			"name": "jsText_png"
+		},
+		{
+			"url": "assets/gamePage/dg1.png",
+			"type": "image",
+			"name": "dg1_png"
+		},
+		{
+			"url": "assets/gamePage/tap2.png",
+			"type": "image",
+			"name": "tap2_png"
+		},
+		{
+			"url": "assets/resultPage/pn17.png",
+			"type": "image",
+			"name": "pn17_png"
+		},
+		{
+			"url": "assets/resultPage/pn1.png",
+			"type": "image",
+			"name": "pn1_png"
+		},
+		{
+			"url": "assets/resultPage/pn2.png",
+			"type": "image",
+			"name": "pn2_png"
+		},
+		{
+			"url": "assets/resultPage/pn3.png",
+			"type": "image",
+			"name": "pn3_png"
+		},
+		{
+			"url": "assets/resultPage/pn4.png",
+			"type": "image",
+			"name": "pn4_png"
+		},
+		{
+			"url": "assets/resultPage/pn5.png",
+			"type": "image",
+			"name": "pn5_png"
+		},
+		{
+			"url": "assets/resultPage/pn6.png",
+			"type": "image",
+			"name": "pn6_png"
+		},
+		{
+			"url": "assets/resultPage/pn7.png",
+			"type": "image",
+			"name": "pn7_png"
+		},
+		{
+			"url": "assets/resultPage/pn8.png",
+			"type": "image",
+			"name": "pn8_png"
+		},
+		{
+			"url": "assets/resultPage/pn9.png",
+			"type": "image",
+			"name": "pn9_png"
+		},
+		{
+			"url": "assets/resultPage/pn11.png",
+			"type": "image",
+			"name": "pn11_png"
+		},
+		{
+			"url": "assets/resultPage/pn12.png",
+			"type": "image",
+			"name": "pn12_png"
+		},
+		{
+			"url": "assets/resultPage/pn13.png",
+			"type": "image",
+			"name": "pn13_png"
+		},
+		{
+			"url": "assets/resultPage/pn14.png",
+			"type": "image",
+			"name": "pn14_png"
+		},
+		{
+			"url": "assets/resultPage/pn15.png",
+			"type": "image",
+			"name": "pn15_png"
+		},
+		{
+			"url": "assets/resultPage/pn16.png",
+			"type": "image",
+			"name": "pn16_png"
+		},
+		{
+			"url": "assets/resultPage/wuhunBg.png",
+			"type": "image",
+			"name": "wuhunBg_png"
+		},
+		{
+			"url": "assets/resultPage/hbg.png",
+			"type": "image",
+			"name": "hbg_png"
+		},
+		{
+			"url": "assets/resultPage/hdBtn.png",
+			"type": "image",
+			"name": "hdBtn_png"
+		},
+		{
+			"url": "assets/resultPage/matchsBtn.png",
+			"type": "image",
+			"name": "matchsBtn_png"
+		},
+		{
+			"url": "assets/resultPage/moreBtn.png",
+			"type": "image",
+			"name": "moreBtn_png"
+		},
+		{
+			"url": "assets/resultPage/rankBtn.png",
+			"type": "image",
+			"name": "rankBtn_png"
+		},
+		{
+			"url": "assets/resultPage/replayBtn.png",
+			"type": "image",
+			"name": "replayBtn_png"
+		},
+		{
+			"url": "assets/resultPage/resultBg.jpg",
+			"type": "image",
+			"name": "resultBg_jpg"
+		},
+		{
+			"url": "assets/resultPage/sanjiaoBg.png",
+			"type": "image",
+			"name": "sanjiaoBg_png"
+		},
+		{
+			"url": "assets/resultPage/shareBtn.png",
+			"type": "image",
+			"name": "shareBtn_png"
+		},
+		{
+			"url": "assets/resultPage/one.png",
+			"type": "image",
+			"name": "one_png"
+		},
+		{
+			"url": "assets/resultPage/r_text2.png",
+			"type": "image",
+			"name": "r_text2_png"
+		},
+		{
+			"url": "assets/resultPage/r_text1.png",
+			"type": "image",
+			"name": "r_text1_png"
+		},
+		{
+			"url": "assets/resultPage/playerdata.json",
+			"type": "json",
+			"name": "playerdata_json"
+		},
+		{
+			"url": "assets/resultPage/picBg.png",
+			"type": "image",
+			"name": "picBg_png"
+		},
+		{
+			"url": "assets/resultPage/infoMore.png",
+			"type": "image",
+			"name": "infoMore_png"
+		},
+		{
+			"url": "assets/resultPage/sharebg.png",
+			"type": "image",
+			"name": "sharebg_png"
+		},
+		{
+			"url": "assets/resultPage/saveqr.png",
+			"type": "image",
+			"name": "saveqr_png"
+		},
+		{
+			"url": "assets/boli.mp3",
+			"type": "sound",
+			"name": "boli_mp3"
+		},
+		{
+			"url": "assets/feng.mp3",
+			"type": "sound",
+			"name": "feng_mp3"
+		},
+		{
+			"url": "assets/hu.mp3",
+			"type": "sound",
+			"name": "hu_mp3"
+		},
+		{
+			"url": "assets/long.mp3",
+			"type": "sound",
+			"name": "long_mp3"
+		},
+		{
+			"url": "assets/so.mp3",
+			"type": "sound",
+			"name": "so_mp3"
+		},
+		{
+			"url": "assets/resultPage/red_light.png",
+			"type": "image",
+			"name": "red_light_png"
+		},
+		{
+			"url": "assets/resultPage/pic17.jpg",
+			"type": "image",
+			"name": "pic17_jpg"
+		},
+		{
+			"url": "assets/resultPage/pic1.jpg",
+			"type": "image",
+			"name": "pic1_jpg"
+		},
+		{
+			"url": "assets/resultPage/pic2.jpg",
+			"type": "image",
+			"name": "pic2_jpg"
+		},
+		{
+			"url": "assets/resultPage/pic3.jpg",
+			"type": "image",
+			"name": "pic3_jpg"
+		},
+		{
+			"url": "assets/resultPage/pic4.jpg",
+			"type": "image",
+			"name": "pic4_jpg"
+		},
+		{
+			"url": "assets/resultPage/pic5.jpg",
+			"type": "image",
+			"name": "pic5_jpg"
+		},
+		{
+			"url": "assets/resultPage/pic6.jpg",
+			"type": "image",
+			"name": "pic6_jpg"
+		},
+		{
+			"url": "assets/resultPage/pic7.jpg",
+			"type": "image",
+			"name": "pic7_jpg"
+		},
+		{
+			"url": "assets/resultPage/pic8.jpg",
+			"type": "image",
+			"name": "pic8_jpg"
+		},
+		{
+			"url": "assets/resultPage/pic9.jpg",
+			"type": "image",
+			"name": "pic9_jpg"
+		},
+		{
+			"url": "assets/resultPage/pic11.jpg",
+			"type": "image",
+			"name": "pic11_jpg"
+		},
+		{
+			"url": "assets/resultPage/pic12.jpg",
+			"type": "image",
+			"name": "pic12_jpg"
+		},
+		{
+			"url": "assets/resultPage/pic13.jpg",
+			"type": "image",
+			"name": "pic13_jpg"
+		},
+		{
+			"url": "assets/resultPage/pic14.jpg",
+			"type": "image",
+			"name": "pic14_jpg"
+		},
+		{
+			"url": "assets/resultPage/pic15.jpg",
+			"type": "image",
+			"name": "pic15_jpg"
+		},
+		{
+			"url": "assets/resultPage/pic16.jpg",
+			"type": "image",
+			"name": "pic16_jpg"
+		},
+		{
+			"url": "assets/zs.mp3",
+			"type": "sound",
+			"name": "zs_mp3"
+		},
+		{
+			"name": "jumpBtn_png",
+			"type": "image",
+			"url": "assets/homePage/jumpBtn.png"
+		},
+		{
+			"name": "pt5_png",
+			"type": "image",
+			"url": "assets/homePage/pt5.png"
+		},
+		{
+			"name": "pb1_png",
+			"type": "image",
+			"url": "assets/homePage/pb1.png"
+		},
+		{
+			"name": "pb2_png",
+			"type": "image",
+			"url": "assets/homePage/pb2.png"
+		},
+		{
+			"name": "pb3_png",
+			"type": "image",
+			"url": "assets/homePage/pb3.png"
+		},
+		{
+			"name": "pb4_png",
+			"type": "image",
+			"url": "assets/homePage/pb4.png"
+		},
+		{
+			"name": "pb5_png",
+			"type": "image",
+			"url": "assets/homePage/pb5.png"
+		},
+		{
+			"name": "pt1_png",
+			"type": "image",
+			"url": "assets/homePage/pt1.png"
+		},
+		{
+			"name": "pt2_png",
+			"type": "image",
+			"url": "assets/homePage/pt2.png"
+		},
+		{
+			"name": "pt3_png",
+			"type": "image",
+			"url": "assets/homePage/pt3.png"
+		},
+		{
+			"name": "pt4_png",
+			"type": "image",
+			"url": "assets/homePage/pt4.png"
+		},
+		{
+			"name": "diss_png",
+			"type": "image",
+			"url": "assets/resultPage/diss.png"
+		},
+		{
+			"name": "g1_p5_png",
+			"type": "image",
+			"url": "assets/gamePage/g1_p5.png"
+		},
+		{
+			"name": "g2_p5_png",
+			"type": "image",
+			"url": "assets/gamePage/g2_p5.png"
+		},
+		{
+			"name": "g3_p5_png",
+			"type": "image",
+			"url": "assets/gamePage/g3_p5.png"
+		}
+	]
+}

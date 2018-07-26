@@ -1,0 +1,226 @@
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,input,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent;-webkit-background-origin:content-box;background-origin:content-box;}section,header,footer,nav{display:block;margin:0;padding:0}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}:focus{outline:0}ins{text-decoration:none}del{text-decoration:line-through}table{border-collapse:collapse;border-spacing:0}img{border:0;font-size:0}a{text-decoration:none;}
+.cf:before,.cf:after{content:"";display:table}.cf:after{clear:both}.cf{*zoom:1}
+html{
+    -webkit-text-size-adjust:none;
+}
+*{
+    -webkit-tap-highlight-color: transparent;
+}
+html,body{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    -webkit-overflow-scrolling: touch;
+}
+body{
+    text-align:justify;
+    font-family:"Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",arial,Helvetica,sans-serif;
+}
+.jcontent{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.abso div{
+    position: absolute;
+}
+.liuzi{
+    width: 100%;
+    height: 100%;
+    top: 0;
+    background: rgba(0,0,0,0.5);
+    /*display: none;*/
+    z-index: 12;
+    position: absolute;
+}
+.liuzi_bg{
+    background: url(../images/liuzi_bg.png) center no-repeat;
+    background-size: auto 100%;
+    height: 53%;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 27.5%;
+    margin-bottom: 0;
+    position: absolute;
+}
+.liuzi_close{
+    background: url(../images/liuzi_close.png) no-repeat;
+    background-size: auto 100%;
+    height: 6.7%;
+    top: 14%;
+    left: 80%;
+    width: 15%;
+    position: absolute;
+}
+.liuzi_confirm{
+    background: url(../images/liuzi_confirm.png) center no-repeat;
+    background-size: auto 100%;
+    height: 21%;
+    top: 105%;
+    width: 50%;
+    left:25%;
+    position: absolute;
+}
+.liuzi input{
+    padding-left: 0.8rem;
+    font-size: 1.2rem;
+    color: #011657;
+    width:100%;
+    height:100%;
+}
+.liuzi .border1{
+    height: 10%;
+    top: 44.2%;
+    width: 34%;
+    left: 39%;
+    position: absolute;
+}
+.liuzi .border2{
+    height: 10%;
+    top: 54.8%;
+    width: 33%;
+    left: 40.3%;
+    position: absolute;
+}
+.liuzi .core_border{
+    height: 10%;
+    top: 64.6%;
+    width: 34%;
+    left: 40%;
+    position: absolute;
+}
+.liuzi .core_border2{
+    height: 10%;
+    top: 75%;
+    width: 34%;
+    left: 40%;
+    position: absolute;
+}
+.input_border{
+    position: absolute;
+    text-align: left;
+    color: #011657;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+}
+.inp_border input:disabled{
+    color: #011657;
+    opacity: 1;
+}
+.input_border select{
+    opacity: 0;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+    display: none;
+    position: absolute;
+    left: -9999px;
+    top: 0;
+}
+.input_border .input_txt{
+    padding-left: 0.8rem;
+    font-size: 1.2rem;
+    color: #011657;
+    line-height:3rem;
+}
+.input_txt.linkage{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.mbsc-ios .dwb{
+    color: #bd389c;
+}
+.inp_border input{
+    width: 88%;
+    height: 60%;
+    padding-left: 0.8rem;
+    font-size: 1.2rem;
+    color: #fff;
+    font-family:"Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",arial,Helvetica,sans-serif;
+}
+
+.alertp{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    background: rgba(0,0,0,0.7);
+    z-index: 1000;
+}
+.alertpBox{
+    position: absolute;
+    width: 70%;
+    top: 45%;
+    left: 50%;
+    -webkit-transform: translate3d(-50%,-50%,0);
+    transform: translate3d(-50%,-50%,0);
+    border-radius: 0.6rem;
+    overflow: hidden;
+}
+.alertpTitle{
+    position: relative;
+    text-align: center;
+    width: 100%;
+    height: 3rem;
+    line-height: 3rem;
+    color: #fff;
+    background: #115DBB;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.alertp p{
+    position: relative;
+    text-align: center;
+    width: 100%;
+    line-height: 2rem;
+    padding: 1.2rem 0;
+    color: #414659;
+    background: #fff;
+    font-size: 1.1rem;
+}
+.alertp p span{
+    display: block;
+    width: 90%;
+    margin: 0 auto;
+}
+.alertp_close{
+    position: absolute;
+    width: 3rem;
+    height: 3rem;
+    top: -3rem;
+    right: 0rem;
+    background: url(../images/close.png) center no-repeat;
+    background-size: 60%;
+}
+.select_icon{
+    position: absolute;
+    width: 1.05rem;
+    height: 2rem;
+    right: 0.2rem;
+    top: 60%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    background: url(../images/select_icon.png) center no-repeat;
+    background-size: contain;
+    pointer-events: none;
+}
+
+.liuzi  .reward{
+    font-family: "YaHei";
+    top:25%;
+    font-weight: 600;
+    height:10%;
+    width:100%;
+    text-align:center;
+    font-size:1.3rem;
+    color:#011657;
+}
+
+.mbsc-ios .dwb {
+    color: #105DBA;
+}
